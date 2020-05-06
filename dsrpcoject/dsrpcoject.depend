@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1574507302 source:c:\users\hp\desktop\dsrpcoject\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<time.h>
+	<bits/stdc++.h>
+	<conio.h>
+	<sstream>
+	<string>
+
+1476096933 c:\program files (x86)\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476096946 c:\program files (x86)\dev-cpp\mingw64\include\mysql_com.h
+
+1476096972 c:\program files (x86)\dev-cpp\mingw64\include\mysql_time.h
+
+1476096983 c:\program files (x86)\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1476097123 c:\program files (x86)\dev-cpp\mingw64\include\typelib.h
+
+1476097168 c:\program files (x86)\dev-cpp\mingw64\include\my_list.h
+
+1476097177 c:\program files (x86)\dev-cpp\mingw64\include\my_alloc.h
+
+1574186587 source:c:\users\hp\desktop\dsrpcoject\file.cpp
+
+1574186383 c:\users\hp\desktop\dsrpcoject\file.cpp
+	<iostream>
+
